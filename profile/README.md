@@ -7,5 +7,9 @@ A team with smart people creating scripts for your FiveM Servers. We are support
 #### - MoneSuper#0001
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/monesuper)
 
+#### - Gale#4864
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/galescripts)
+
+
 # Discord 
 [![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
