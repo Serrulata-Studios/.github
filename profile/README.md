@@ -1,15 +1,12 @@
-![Serrulata Studios Banner](https://i.imgur.com/wG4hycs.gif)
+![Serrulata Studios Banner](https://i.imgur.com/GhL4DbS.png)
 
 # About Serrulata - Studios?
-A team with smart people creating scripts for your FiveM Servers. We are supporting QBCore and OXCore and alot new stuff will come overtime!
 
-# Developers:
-#### - MoneSuper#0001
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/monesuper)
+Serrulata Studios is a modding community for FiveM. We aim to create resources for your community. You can discuss future projects and get help with current ones by joining our Discord Server!
 
-#### - Gale#4864
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/galescripts)
-
+# Apply for Serrulata-Studios? 
+We always looking for new Developers if you have skills don't hesitate to apply!
 
 # Discord 
 [![](https://dcbadge.vercel.app/api/server/NerdvuJDX7)](https://discord.gg/NerdvuJDX7)
+
