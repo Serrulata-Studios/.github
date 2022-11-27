@@ -2,7 +2,7 @@
 
 # About Serrulata - Studios?
 
-Serrulata Studios is a modding community for FiveM. We aim to create resources for your community. You can discuss future projects and get help with current ones by joining our Discord Server!
+A modding community for FiveM. We aim to create resources for your community. You can discuss future projects and get help with current ones by joining our Discord Server!
 
 # Apply for Serrulata-Studios? 
 We always looking for new Developers if you have skills don't hesitate to apply!
