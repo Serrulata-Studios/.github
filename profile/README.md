@@ -1,4 +1,4 @@
-![Serrulata Studios Banner](https://i.imgur.com/GhL4DbS.png)
+![Serrulata Studios Banner](https://i.imgur.com/7eQJ73N.jpeg)
 
 # About Serrulata - Studios?
 
